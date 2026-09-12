@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\Algo\\Trie Data Structure\\A.py","tests":[{"id":1781524326053,"input":"1 KATTISJR 2\n1 OLIVER 1\n1 SIMBA 1\n3 A Z 0\n3 A Z 1\n3 A Z 2\n2 SIMBA\n3 A Z 0\n3 A Z 1\n3 A Z 2\n0\n","output":"3\n2\n1\n2\n1\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Algo\\Trie Data Structure\\A.py","group":"local","local":true}

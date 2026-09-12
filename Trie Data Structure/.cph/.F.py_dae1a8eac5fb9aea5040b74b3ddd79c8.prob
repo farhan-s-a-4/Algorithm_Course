@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"d:\\Algo\\Trie Data Structure\\F.py","tests":[{"id":1781529929608,"input":"3\n1 0\n5\n4 2\n1 2 3 4\n6 0\n1 1 9 1 1 1\n\n","output":"1\n2\n5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Algo\\Trie Data Structure\\F.py","group":"local","local":true}

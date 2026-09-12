@@ -1,0 +1,1 @@
+{"name":"Local: V","url":"d:\\Algo\\class 19.5.26\\V.py","tests":[{"id":1779162770311,"input":"4\n2\not\n2\nad\nDV\n3\nefo\n7\nrdcoecs\nDVDVDVD\n3\naca\n4\nbbaa\nDVDV\n3\nbiz\n4\nabon\nVVDD\n","output":"dota\ncodeforces\nabacaba\nbabizon\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Algo\\class 19.5.26\\V.py","group":"local","local":true}
